@@ -9,4 +9,3 @@ Location of a shopping mall plays an important role in predicting if it will be 
 In the KL.ipynb, KL neighborhoods are analysed.
 
 In the Chennai.ipynb, the neighborhoods of Chennai, India are analysed.
-
